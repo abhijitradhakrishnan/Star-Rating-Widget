@@ -1,0 +1,9 @@
+emojis :- ⭐ 😍 😎 🤪 🥱 😠
+
+✰ 
+
+★ - this  is correct one 
+
+:checked :- :checked is a pseudo-class selector that's used to style the checked state of radio, checkbox, or option elements.
+
+'~' :- The ~ combinator separates two selectors and matches the second element only if it is preceded by the first, and both share a common parent.
